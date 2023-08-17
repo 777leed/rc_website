@@ -79,7 +79,6 @@
     align-items: center;
     gap: 3%;
     min-height: 40vh;
-    background: #1F5;
   }
   
   .member-reverse {
